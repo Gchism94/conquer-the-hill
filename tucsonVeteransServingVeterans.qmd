@@ -1,0 +1,26 @@
+---
+title: "Tucson Veterans Serving Veterans"
+format: 
+  html:
+    title-block-header: none
+toc: false
+---
+
+
+<style>
+  /* Style the header text (optional) */
+  header h1, header p {
+    /* Set the text color to white or any color that contrasts with the background */
+    color: white;
+  }
+</style>
+
+[![](./images/tucsonVeteransServingVeterans.png){fig-align="center" width="400"}](https://tucsonveterans.org/)
+
+<div style="text-align: center;">
+<a href="https://tucsonveterans.org/" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-globe"></i> </a>
+</div>
+
+## About Tucson Veterans Serving Veterans
+
+Tucson Veterans Serving Veterans will continue to work closely with our state and city officials, Department of Veteran Administration, and local organizations regarding COVID-19 to ensure that every veteran remains in their home, has access to financial assistance and resources, and essential needs during this time.

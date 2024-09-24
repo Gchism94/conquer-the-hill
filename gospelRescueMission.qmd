@@ -19,19 +19,19 @@ toc: false
 [![](images/gospelRescueMissionLogo.jpeg){fig-align="center" width="400"}](https://casadelosninos.org/how-to-help/donate/?fbclid=IwAR2yEyACPwdzP5jSz8NoZyVc8zsmRwXxxFDyEUplBmwSZoiCy3vB7NCr8w8)
 
 <div style="text-align: center;">
-  <a href="https://grmtucson.com/">
+  <a href="https://grmtucson.com/" target="_blank" rel="noopener noreferrer">
     <i class="fa-solid fa-globe"></i>
   </a>
-  <a href="https://www.facebook.com/GRMTucson">
+  <a href="https://www.facebook.com/GRMTucson" target="_blank" rel="noopener noreferrer">
     <i class="fab fa-facebook"></i>
   </a>
-  <a href="https://www.instagram.com/grmtucson/">
+  <a href="https://www.instagram.com/grmtucson/" target="_blank" rel="noopener noreferrer">
     <i class="fa-brands fa-instagram"></i>
   </a>
   <a href="https://twitter.com/grmtucson">
     <i class="fa-brands fa-twitter"></i>
   </a>
-  <a href="https://www.youtube.com/channel/UCSqzutpMgmF7JkqqQXYNltA?view_as=subscriber">
+  <a href="https://www.youtube.com/channel/UCSqzutpMgmF7JkqqQXYNltA?view_as=subscriber" target="_blank" rel="noopener noreferrer">
     <i class="fa-brands fa-youtube"></i>
   </a>
 </div>

@@ -19,10 +19,10 @@ toc: false
 [![](images/handUpNotOutLogo.jpeg){fig-align="center" width="400"}](https://casadelosninos.org/how-to-help/donate/?fbclid=IwAR2yEyACPwdzP5jSz8NoZyVc8zsmRwXxxFDyEUplBmwSZoiCy3vB7NCr8w8)
 
 <div style="text-align: center;">
-  <a href="https://www.facebook.com/profile.php?id=100086312253390">
+  <a href="https://www.facebook.com/profile.php?id=100086312253390" target="_blank" rel="noopener noreferrer">
     <i class="fab fa-facebook"></i>
   </a>
-  <a href="https://www.instagram.com/a.h.u.n.h.o/">
+  <a href="https://www.instagram.com/a.h.u.n.h.o/" target="_blank" rel="noopener noreferrer">
     <i class="fa-brands fa-instagram"></i>
   </a>
 </div>

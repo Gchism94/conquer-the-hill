@@ -1,5 +1,4 @@
 ---
-title-image: /images/conquerTheHillLogo.jpeg
 format: 
   html:
     page-layout: full
@@ -9,169 +8,79 @@ toc: false
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
+![](images/conquerTheHillLogo.jpg){fig-align="center" width="500"}
 
-![](images/conquerTheHillLogo.jpeg){fig-align="center"}
-
-<div style="text-align: center;">
-  <a href="https://www.facebook.com/events/285344420958713?active_tab=about" class="calendar-button">
-    <i class="fab fa-facebook"></i> CLICK HERE!
-  </a>
-</div>
+::: {#particles-js}
+:::
 
 <br>
 
-It\'s that time of year again! Last year, we put together the very first Conquer the Hill event. This event was geared towards women who were survivors of domestic violence, sexual abuse, or in need of support.
+# Exciting News: Conquer the Hill 2024 is Here! ![🌄](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f304/72.png){alt="🌄" width="26"}
 
-THIS YEAR, WE ARE DOING A CO-ED EVENT! Both men and women deal with traumas, pains due to sexual abuse, PTSD, mental health, domestic violence, homelessness, and so much more. What most people don\'t know is that Tucson is a HUB full of resources to help those in need of recovery services such as therapy, shelter, education, and financial assistance.
+We are thrilled to officially announce the launch of Conquer the Hill, an annual community event where we come together to walk up Tumamoc Hill as a symbol of healing, growth, and overcoming life’s challenges. Whether you’ve faced trauma, domestic violence, PTSD, homelessness, or mental health struggles, this event is a chance to rise above it all—together.
 
-This is more than just a climb up a hill! We will be collecting donations to help fund organizations in Tucson that provide these resources all year long. We have put together an incredible team of people who will be helping me work on this to make it a valuable event for everyone. This is not just a one-day thing; we are expanding our resources and knowledge to ensure that everyone has access to anything they may need to continue their healing journey beyond November 5th.
+### ![🗓](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f5d3/72.png){alt="🗓" width="22"} Date: November 3, 2024
 
-We will be doing raffles throughout the month of October and holding special events to raise money for this cause!
-
-If you are willing to donate some of your services, products, or make a contribution on behalf of your company it would be greatly appreciated!!
-
-<div style="text-align: center;">
-  <p style="display: inline; margin: 0;">
-   <h5>🚨 MARK THOSE CALENDARS FOR NOVEMBER 5th, 5:45am 🚨</h5></p>
-</div>
-
-<div style="text-align: center;">
-  <a href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VEVENT%0ADTSTART:20231105T124500Z%0ASUMMARY:Important Event%0AEND:VEVENT%0AEND:VCALENDAR%0A"
-     download="calendar-event.ics" class="calendar-button">
-    Download Calendar Event
-  </a>
-</div>
+### ![📍](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4cd/72.png){alt="📍" width="18"} Location: Tumamoc Hill, Tucson, AZ
 
 <br>
 
---- 
+## How the Event Will Run This Year:
 
-# Charities {.charity}
+After our walk up Tumamoc Hill, we will gather at a separate venue to be determined, where we’ll enjoy light food and beverages and listen to inspiring speakers share their stories of hope, resilience, and resources for moving forward. Stay tuned for the venue details!
 
-<p class="centered-paragraph">We have 5 organizations we are collecting donations for this year so we are going to need all of your help!!</p>
+### ![💻](https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4bb/72.png){.normal alt="💻" width="18"} Register Now:
 
-<p class="centered-paragraph">Help us, help them provide the incredible resources they have for our community!</p>
+Although this is a FREE event, please sign up through Eventbrite (link below) so we can get an accurate headcount and make sure we’re prepared for everyone! Let’s make this year the best yet!
 
-<p class="charity"><h3>Please donate what you can!</h4></p> 
-
-<p class="centered-paragraph">We have a goal of \$5,000 this year.</p>
-
-<table border="0" cellpadding="10" cellspacing="0" align="center">
-  <tr>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.paypal.com/pools/c/8XYVMVs1MJ?fbclid=IwAR0jOdtH8m_jHtJzd4pfvhtlfhtSvz9YnkwfzXZphKbaFF_Ohw-a2Lq1teM" title="Check out with PayPal" onclick="javascript:window.open('https://www.paypal.com/pools/c/8XYVMVs1MJ?fbclid=IwAR0jOdtH8m_jHtJzd4pfvhtlfhtSvz9YnkwfzXZphKbaFF_Ohw-a2Lq1teM','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;">
-        <img src="https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/44_Yellow_CheckOut_Pill_Button.png" alt="Check out with PayPal" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-::: {.columns}
-
-::: {.column}
-## Casa de los Niños {.charity}
-
-[![](images/casaDeLosNinosLogo.png){fig-align="center" width="300"}](casaDeLosNinos.qmd)
-
-<div style="text-align: center;">
-  <a href="https://casadelosninos.org/">
-    <i class="fa-solid fa-globe"></i>
-  </a>
-  <a href="https://www.facebook.com/casadelosninos">
-    <i class="fab fa-facebook"></i>
-  </a>
-  <a href="https://www.instagram.com/casadelosninostucson/">
-    <i class="fa-brands fa-instagram"></i>
-  </a>
-  <a href="https://twitter.com/CDLNTucson">
-    <i class="fa-brands fa-twitter"></i>
-  </a>
-  <a href="https://www.youtube.com/channel/UCOKlDIAJtKHwAfH0Dh6TV1g">
-    <i class="fa-brands fa-youtube"></i>
-  </a>
-</div>
-
+::: {style="text-align: center;"}
+<a href="https://www.eventbrite.com/e/conquer-the-hill-2024-tickets-1025589364397gc" class="button" target="_blank"> Eventbrite Link</a>
 :::
 
-::: {.column}
+<br>
 
-## Gospel Rescue Mission {.charity}
+------------------------------------------------------------------------
 
-[![](images/gospelRescueMissionLogo.jpeg){fig-align="center" width="300"}](gospelRescueMission.qmd)
+::: {style="text-align: center;"}
+# Charities
 
-<div style="text-align: center;">
-  <a href="https://grmtucson.com/">
-    <i class="fa-solid fa-globe"></i>
-  </a>
-  <a href="https://www.facebook.com/GRMTucson">
-    <i class="fab fa-facebook"></i>
-  </a>
-  <a href="https://www.instagram.com/grmtucson/">
-    <i class="fa-brands fa-instagram"></i>
-  </a>
-  <a href="https://twitter.com/grmtucson">
-    <i class="fa-brands fa-twitter"></i>
-  </a>
-  <a href="https://www.youtube.com/channel/UCSqzutpMgmF7JkqqQXYNltA?view_as=subscriber">
-    <i class="fa-brands fa-youtube"></i>
-  </a>
-</div>
+This year, we are fundraising for three incredible organizations:
 
+### Please donate what you can!
+
+We have a goal of \$5,000 this year.
 :::
 
-::: {.column}
-
-## A Hand Up Not A Hand Out {.charity}
-
-[![](images/handUpNotOutLogo.jpeg){fig-align="center" width="300" }](handUpNotOut.qmd)
-
-<div style="text-align: center;">
-  <a href="https://www.facebook.com/profile.php?id=100086312253390">
-    <i class="fab fa-facebook"></i>
-  </a>
-  <a href="https://www.instagram.com/a.h.u.n.h.o/">
-    <i class="fa-brands fa-instagram"></i>
-  </a>
-</div>
-
+::: {style="text-align: center;"}
+<a href="https://www.paypal.com/pools/c/98gl96a7yn" class="paypal-button" target="_blank"></a>
 :::
 
-::: {.column}
-
+::: columns
+::: column
 ## I Am You 360 {.charity}
 
 [![](images/iAmYouLogo.png){fig-align="center" width="300"}](iAmYou360.qmd)
 
-<div style="text-align: center;">
-  <a href="https://iamyou360.org/">
-    <i class="fa-solid fa-globe"></i>
-  </a>
-  <a href="https://www.facebook.com/iamyou360">
-    <i class="fab fa-facebook"></i>
-  </a>
-  <a href="https://www.instagram.com/i_am_you_360/">
-    <i class="fa-brands fa-instagram"></i>
-  </a>
-</div>
-
+::: {style="text-align: center;"}
+<a href="https://iamyou360.org/" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-globe"></i> </a> <a href="https://www.facebook.com/iamyou360" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook"></i> </a> <a href="https://www.instagram.com/i_am_you_360/" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-instagram"></i> </a>
 :::
 :::
 
-## La Frontera Arizona {.charity}
+::: column
+## Tucson Veterans Serving Veterans {.charity}
 
-<a href="laFronteraArizona.qmd">
-    <img src="images/laFonteraCenterLogo.jpeg" style="width: 300px; display: block; margin: 0 auto;" alt="La Fontera Center Logo" id="responsiveImage">
-</a>
+[![](images/tucsonVeteransServingVeterans.png){fig-align="center" width="300"}](tucsonVeteransServingVeterans.qmd)
 
-<div style="text-align: center;">
-  <a href="https://lafronteraaz.org/">
-    <i class="fa-solid fa-globe"></i>
-  </a>
-  <a href="https://www.facebook.com/LaFronteraArizona">
-    <i class="fab fa-facebook"></i>
-  </a>
-</div>
+::: {style="text-align: center;"}
+<a href="https://tucsonveterans.org/" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-globe"></i> </a>
+:::
+:::
+:::
 
+## Teen Challenge Arizona {.charity}
+
+<a href="teenChallengeAZ.qmd"> <img src="images/teenChallengeAZ.webp" alt="Teen Challenge Arizona Logo" id="responsiveImage" style="width: 300px; display: block; margin: 0 auto; background-color: white; padding: 10px; border-radius: 5px;"/> </a>
+
+::: {style="text-align: center;"}
+<a href="https://tcaz.org/" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-globe"></i> </a> <a href="https://www.facebook.com/TeenChallengeArizona" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook"></i> </a> <a href="https://www.instagram.com/teenchallengeaz" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-instagram"></i> </a> <a href="https://twitter.com/TeenChallengeAZ" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-twitter"></i> </a> <a href="http://www.youtube.com/azteenchallenge" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-youtube"></i> </a>
+:::

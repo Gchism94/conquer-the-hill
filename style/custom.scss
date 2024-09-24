@@ -3,17 +3,38 @@
 @import 'https://fonts.googleapis.com/css2?family=Source+Sans+3&display=swap';
 
 @font-face {
-font-family: 'Chunk Five';
-src: url(fonts/ChunkFive-Regular.otf) format('opentype');
+font-family: 'Kagitingan';
+src: url(fonts/Kagitingan-Bold.otf) format('opentype');
 }
 
+@font-face {
+font-family: 'Della Respira';
+src: url(fonts/DellaRespira-Regular.ttf) format('opentype');
+}
+
+
+
 $font-family: "Source Sans 3", sans-serif;
-$link-color: #866fa3;
-$hover-color: #A2E4B8;
-$navbar-bg: #866fa3;
+$link-color: #D59319;
+$hover-color: #D9C296;
+$navbar-bg: #B85619;
 
 
 /*-- scss:rules --*/
+
+#particles-js {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 800px;  // Or however tall you want it
+  z-index: -1;    // This ensures it stays behind other content
+}
+
+img {
+  mask-image: radial-gradient(circle, white 65%, transparent 100%);
+  -webkit-mask-image: radial-gradient(circle, white 65%, transparent 100%);
+}
 
 a{
   color: $link-color;
@@ -27,7 +48,7 @@ a{
 }
 
 .navbar-title {
-  font-family: "Chunk Five";
+  font-family: "Kagitingan";
 }
 
 
@@ -38,13 +59,13 @@ body {
 }
 
 h1, h2, h3, h4, h5{
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Della Respira', sans-serif;
 }
 
-.calendar-button {
+.button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #866fa3; // Your specified color
+  background-color: #B85619; // Your specified color
   color: white; // Text color
   text-align: center;
   text-decoration: none;
@@ -53,6 +74,27 @@ h1, h2, h3, h4, h5{
   cursor: pointer;
 }
 
+.paypal-button {
+  background-image: url("images/paypal.svg");
+  display: inline-block;
+  padding: 20px 100px;
+  background-color: #FFC43A;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background-repeat: no-repeat; 
+  background-position: center; 
+  background-size: 100px; 
+  transition: background-color 0.3s ease; 
+}
+
+.paypal-button:hover {
+  background-color: #E0A92F; 
+  text-decoration: none;
+}
 // SCSS for two-column layout
 .container {
   display: flex; // Use flexbox for layout
@@ -71,9 +113,10 @@ h1, h2, h3, h4, h5{
   }
 }
 
-.charity h1, h2, h3, h4 {
+.charity {
   text-align: center;
 }
+
 
 .centered-paragraph {
     text-align: center;

@@ -15,16 +15,16 @@ toc: false
   }
 </style>
 
-[![](./images/iAmYouLogo.png){fig-align="center" width="400"}](https://casadelosninos.org/how-to-help/donate/?fbclid=IwAR2yEyACPwdzP5jSz8NoZyVc8zsmRwXxxFDyEUplBmwSZoiCy3vB7NCr8w8)
+[![](./images/iAmYouLogo.png){fig-align="center" width="400"}](https://iamyou360.org/)
 
 <div style="text-align: center;">
-  <a href="https://iamyou360.org/">
+  <a href="https://iamyou360.org/" target="_blank" rel="noopener noreferrer">
     <i class="fa-solid fa-globe"></i>
   </a>
-  <a href="https://www.facebook.com/iamyou360">
+  <a href="https://www.facebook.com/iamyou360" target="_blank" rel="noopener noreferrer">
     <i class="fab fa-facebook"></i>
   </a>
-  <a href="https://www.instagram.com/i_am_you_360/">
+  <a href="https://www.instagram.com/i_am_you_360/" target="_blank" rel="noopener noreferrer">
     <i class="fa-brands fa-instagram"></i>
   </a>
 </div>

@@ -20,19 +20,19 @@ toc: false
 
 
 <div style="text-align: center;">
-  <a href="https://casadelosninos.org/">
+  <a href="https://casadelosninos.org/" target="_blank" rel="noopener noreferrer">
     <i class="fa-solid fa-globe"></i>
   </a>
-  <a href="https://www.facebook.com/casadelosninos">
+  <a href="https://www.facebook.com/casadelosninos" target="_blank" rel="noopener noreferrer">
     <i class="fab fa-facebook"></i>
   </a>
-  <a href="https://www.instagram.com/casadelosninostucson/">
+  <a href="https://www.instagram.com/casadelosninostucson/" target="_blank" rel="noopener noreferrer">
     <i class="fa-brands fa-instagram"></i>
   </a>
-  <a href="https://twitter.com/CDLNTucson">
+  <a href="https://twitter.com/CDLNTucson" target="_blank" rel="noopener noreferrer">
     <i class="fa-brands fa-twitter"></i>
   </a>
-  <a href="https://www.youtube.com/channel/UCOKlDIAJtKHwAfH0Dh6TV1g">
+  <a href="https://www.youtube.com/channel/UCOKlDIAJtKHwAfH0Dh6TV1g" target="_blank" rel="noopener noreferrer">
     <i class="fa-brands fa-youtube"></i>
   </a>
 </div>

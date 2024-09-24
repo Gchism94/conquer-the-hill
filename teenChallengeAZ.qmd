@@ -1,0 +1,34 @@
+---
+title: "Teen Challenge Arizona"
+format: 
+  html:
+    page-layout: full
+editor: visual
+toc: false
+---
+
+
+<style>
+  /* Style the header text (optional) */
+  header h1, header p {
+    /* Set the text color to white or any color that contrasts with the background */
+    color: white;
+  }
+</style>
+
+<a href="teenChallengeAZ.qmd"> <img src="images/teenChallengeAZ.webp" alt="Teen Challenge Arizona Logo" id="responsiveImage" style="width: 400px; display: block; margin: 0 auto; background-color: white; padding: 10px; border-radius: 5px;"/> </a>
+
+::: {style="text-align: center;"}
+<a href="https://tcaz.org/" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-globe"></i> </a> <a href="https://www.facebook.com/TeenChallengeArizona" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook"></i> </a> <a href="https://www.instagram.com/teenchallengeaz" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-instagram"></i> </a> <a href="https://twitter.com/TeenChallengeAZ" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-twitter"></i> </a> <a href="http://www.youtube.com/azteenchallenge" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-youtube"></i> </a>
+:::
+
+<br>
+
+## About Teen Challenge Arizona
+
+To provide youth, adults and families with an effective and comprehensive Christian Faith-based solution to life-controlling problems in order to become productive members of society. Teen Challenge of Arizona endeavors to help people become mentally sound, emotionally balanced, socially adjusted, physically well and spiritually alive.
+
+<div>
+<a href="https://tcaz.org/" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-globe"></i> </a> 
+<a href="https://www.facebook.com/TeenChallengeArizona" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook"></i> </a> <a href="https://www.instagram.com/teenchallengeaz" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-instagram"></i> </a> <a href="https://twitter.com/TeenChallengeAZ" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-twitter"></i> </a> <a href="http://www.youtube.com/azteenchallenge" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-youtube"></i> </a>
+</div>

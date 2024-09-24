@@ -1,13 +1,43 @@
 ---
-title: "About"
 format: html
 editor: visual
 ---
 
+::: {#particles-js}
+:::
+
+```{=html}
 <style>
   /* Style the header text (optional) */
   header h1, header p {
     /* Set the text color to white or any color that contrasts with the background */
     color: white;
   }
+  h2 {
+  text-align: left;
+}
 </style>
+```
+![](images/conquerTheHillLogo2024-2.png){fig-align="center" width="700"}
+
+<h2>About Conquer the Hill: Our Journey to Empowerment</h2>
+
+Welcome to Conquer the Hill, a beacon of hope and a testament to the resilience of the human spirit. Our initiative started from a simple yet profound vision crafted by Rosselyn Fadul and Jade Blair. They dreamed of fostering a safer space for individuals, especially women, to forge connections, access community resources, and cultivate support systems to thrive against life’s challenges.
+
+## Our Inception
+
+The inaugural Conquer the Hill event encapsulated our mission of solidarity and strength. It was a celebration of powerful individuals ascending together, both metaphorically and physically, supporting one another through life’s tough terrains. It was about recognizing our pains but refusing to let them define our future. This event became more than just a climb; it evolved into a transformative experience that generated over \$1,200 in donations for local organizations, sparked life-saving friendships, and instilled newfound confidence in those who felt lost or alone.
+
+## Why Tumamoc Hill?
+
+Tumamoc Hill was chosen not just for its challenging path but for its symbolic significance. It represents the road less traveled — a journey of community and mutual uplift. As we climb, we shed our burdens and rise above the past. Reaching the summit is more than a physical feat; it's a spiritual reclamation, where we reclaim control of our lives, thoughts, and actions.
+
+## Expanding Horizons
+
+This year, Conquer the Hill embraces a significant evolution — extending our embrace to include men in this journey of healing and empowerment. Mental health and the impact of abuse are often silent battles for many men, and we are dedicated to breaking this silence. Our collaboration with the compassionate community of Tucson reflects our commitment to opening dialogues, providing support, and offering guidance to all who seek it.
+
+## A Future of Hope and Healing
+
+As we prepare for this year's event, we invite you to join us. It's more than an event; it's a movement towards a life marked by worth, confidence, hope, and success. Whether you've faced long-standing battles or recent struggles, know that you are not alone. At Conquer the Hill, we don’t just offer resources — we are the resource. Let’s climb together, helping each other to reach not just the top of the hill but the pinnacle of our potential.
+
+Join us on this journey. Together, we can and we will conquer the hill.

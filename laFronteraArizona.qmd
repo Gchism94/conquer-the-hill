@@ -19,10 +19,10 @@ toc: false
 [![](./images/laFonteraCenterLogo.jpeg){fig-align="center" width="400"}](https://casadelosninos.org/how-to-help/donate/?fbclid=IwAR2yEyACPwdzP5jSz8NoZyVc8zsmRwXxxFDyEUplBmwSZoiCy3vB7NCr8w8)
 
 <div style="text-align: center;">
-  <a href="https://lafronteraaz.org/">
+  <a href="https://lafronteraaz.org/" target="_blank" rel="noopener noreferrer">
     <i class="fa-solid fa-globe"></i>
   </a>
-  <a href="https://www.facebook.com/LaFronteraArizona">
+  <a href="https://www.facebook.com/LaFronteraArizona" target="_blank" rel="noopener noreferrer">
     <i class="fab fa-facebook"></i>
   </a>
 </div>
