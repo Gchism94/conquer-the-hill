@@ -25,6 +25,9 @@ We are thrilled to officially announce the launch of Conquer the Hill, an annual
 
 <br>
 
+
+![](images/eventInfo.png){fig-align="center"}]
+
 ## How the Event Will Run This Year:
 
 After our walk up Tumamoc Hill, we will gather at a separate venue to be determined, where we’ll enjoy light food and beverages and listen to inspiring speakers share their stories of hope, resilience, and resources for moving forward. Stay tuned for the venue details!
@@ -47,7 +50,7 @@ Although this is a FREE event, please sign up through Eventbrite (link below) so
 ::: column
 ## Elsa Beltran {.charity}
 
-[![](images/elsaBeltran.jpg){fig-align="center" width="300"}](elseBeltran.qmd)
+[![](images/elsaBeltran.jpg){fig-align="center" width="300"}](elsaBeltran.qmd)
 
 ::: {style="text-align: center;"}
 <a href="https://www.instagram.com/belt_ranelsita/" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-instagram"></i> </a>
