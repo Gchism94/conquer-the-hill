@@ -15,9 +15,9 @@ toc: false
   }
 </style>
 
-[![](./images/iAmYouLogo.png){fig-align="center" width="400"}](https://iamyou360.org/)
+[![](./images/iAmYouLogo.png){fig-align="left" width="500"}](https://iamyou360.org/)
 
-<div style="text-align: center;">
+<div style="text-align: left;">
   <a href="https://iamyou360.org/" target="_blank" rel="noopener noreferrer">
     <i class="fa-solid fa-globe"></i>
   </a>
@@ -31,4 +31,4 @@ toc: false
 
 ## About I Am You 360
 
-<p class="centered-paragraph">I Am You 360 is an award-winning, forward-thinking, progressive, innovative, led by an African American woman is leading in diversity and inclusion Desiree Cook’s lived experience inspired her to revolutionize a movement called “I Am Somebody”.</p>
+I Am You 360 is an award-winning, forward-thinking, progressive, innovative, led by an African American woman is leading in diversity and inclusion Desiree Cook’s lived experience inspired her to revolutionize a movement called “I Am Somebody”.

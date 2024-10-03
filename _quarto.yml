@@ -13,10 +13,19 @@ website:
     right:
       - text: Event
         href: index.qmd
+      - text: Speakers
+        menu: 
+          - href: elsaBeltran.qmd
+          - href: desireeCook.qmd
+          - href: itzelEriksen.qmd
+          - href: vondiGrijalva.qmd
+          - href: roxanneMartinez.qmd
+          - href: christianVerdugo.qmd
       - text: Charities
         menu:
           - href: iAmYou360.qmd
           - href: tucsonVeteransServingVeterans.qmd
+          - href: masterpiece.qmd
           - href: teenChallengeAZ.qmd
       - text: About
         href: about.qmd

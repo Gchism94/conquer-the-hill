@@ -1,0 +1,27 @@
+---
+title: "Christian Verdugo"
+format: 
+  html:
+    title-block-header: none
+toc: false
+---
+
+
+<style>
+  /* Style the header text (optional) */
+  header h1, header p {
+    /* Set the text color to white or any color that contrasts with the background */
+    color: white;
+  }
+</style>
+
+![](./images/christianVerdugo.jpg){fig-align="left" width="400"}
+
+<div style="text-align: left;">
+<a href="mailto:Christian@tcaz.org" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-envelope"></i> </a> 
+</div>
+
+## What Christian will speak about:
+
+Christian once found himself lost in the depths of addiction, burdened by the pain and guilt of losing loved ones. After discovering hope and healing, he now dedicates his life to helping others experience the same transformation through the love of God. Today, he serves with Teen Challenge, the ministry that profoundly changed his life, giving back to those in need of hope and restoration.
+

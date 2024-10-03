@@ -1,0 +1,28 @@
+---
+title: "Elsa Beltran"
+format: 
+  html:
+    title-block-header: none
+toc: false
+---
+
+
+<style>
+  /* Style the header text (optional) */
+  header h1, header p {
+    /* Set the text color to white or any color that contrasts with the background */
+    color: white;
+  }
+</style>
+
+![](./images/elsaBeltran.jpg){fig-align="left" width="400"}
+
+<div style="text-align: left;">
+  <a href="https://www.instagram.com/belt_ranelsita/" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-instagram"></i> </a>
+  <a href="mailto:growingtogether3333@gmail.com" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-envelope"></i> </a> 
+</div>
+
+## What Elsa will speak about:
+
+Elsa shares her journey finding healing not just for herself but also for generations after her. In hopes of breaking chains of limitations, suppression, stereotypes, and statistics.
+

@@ -39,21 +39,107 @@ Although this is a FREE event, please sign up through Eventbrite (link below) so
 
 <br>
 
+::: {style="text-align: center;"}
+# Speakers
+:::
+
+::: columns
+::: column
+## Elsa Beltran {.charity}
+
+[![](images/elsaBeltran.jpg){fig-align="center" width="300"}](elseBeltran.qmd)
+
+::: {style="text-align: center;"}
+<a href="https://www.instagram.com/belt_ranelsita/" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-instagram"></i> </a>
+<a href="mailto:growingtogether3333@gmail.com" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-envelope"></i> </a> 
+
+<a href="elsaBeltran.qmd" class="button" target="_blank"> Learn more</a>
+:::
+:::
+
+
+::: column
+## Desiree Cook {.charity}
+
+[![](images/desireeCook.jpg){fig-align="center"}](desireeCook.qmd)
+
+::: {style="text-align: center;"}
+<a href="https://iamyou360.org/" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-globe"></i> </a> <a href="https://www.instagram.com/i_am_you_360/" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-instagram"></i> </a>
+:::
+
+<a href="desireeCook.qmd" class="button" target="_blank"> Learn more</a>
+
+:::
+:::
+:::
+
+::: columns
+::: column
+## Itzel Eriksen {.charity}
+
+[![](images/itzelEriksen.jpg){fig-align="center" width="300"}](itzelEriksen.qmd)
+
+::: {style="text-align: center;"}
+<a href="mailto:izteleriksen@gmail.com" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-envelope"></i> </a> 
+
+<a href="itzelEriksen.qmd" class="button" target="_blank"> Learn more</a>
+:::
+
+:::
+
+
+::: column
+## Vondi Grijalva {.charity}
+
+[![](images/vondiGrijalva.jpg){fig-align="center" width="300"}](vondiGrijalva.qmd)
+
+::: {style="text-align: center;"}
+<!--
+<a href="https://www.instagram.com/belt_ranelsita/" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-instagram"></i> </a>
+<a href="mailto:roxannemartinez45@yahoo.com" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-envelope"></i> </a> 
+-->
+
+<a href="vondiGrijalva.qmd" class="button" target="_blank"> Learn more</a>
+:::
+:::
+:::
+
+::: columns
+::: column
+## Roxanne Martinez {.charity}
+
+[![](images/roxanneMartinez.jpg){fig-align="center" width="300"}](roxanneMartinez.qmd)
+
+::: {style="text-align: center;"}
+<a href="mailto:roxannemartinez45@yahoo.com" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-envelope"></i> </a> 
+
+<a href="roxanneMartinez.qmd" class="button" target="_blank"> Learn more</a>
+:::
+
+:::
+
+
+::: column
+## Christian Verdugo {.charity}
+
+[![](images/christianVerdugo.jpg){fig-align="center" width="350"}](christianVerdugo.qmd)
+
+::: {style="text-align: center;"}
+<a href="mailto:Christian@tcaz.org" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-envelope"></i> </a> 
+
+<a href="christianVerdugo.qmd" class="button" target="_blank"> Learn more</a>
+:::
+:::
+:::
+
 ------------------------------------------------------------------------
 
 ::: {style="text-align: center;"}
 # Charities
 
-This year, we are fundraising for three incredible organizations:
-
-### Please donate what you can!
-
-We have a goal of \$5,000 this year.
+This year, we are fundraising for four incredible organizations:
 :::
 
-::: {style="text-align: center;"}
-<a href="https://www.paypal.com/pools/c/98gl96a7yn" class="paypal-button" target="_blank"></a>
-:::
 
 ::: columns
 ::: column
@@ -77,10 +163,154 @@ We have a goal of \$5,000 this year.
 :::
 :::
 
-## Teen Challenge Arizona {.charity}
+::: columns
+::: column
+## Masterpiece International {.charity}
 
+[![](images/masterpiece.jpg){fig-align="center" width="300"}](masterpiece.qmd)
+
+::: {style="text-align: center;"}
+<a href="https://masterpieceinternational.org/" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-globe"></i> </a> <a href="https://www.facebook.com/BreakDownInternational/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook"></i> </a>
+:::
+:::
+
+::: column
+## Teen Challenge Arizona {.charity}
 <a href="teenChallengeAZ.qmd"> <img src="images/teenChallengeAZ.webp" alt="Teen Challenge Arizona Logo" id="responsiveImage" style="width: 300px; display: block; margin: 0 auto; background-color: white; padding: 10px; border-radius: 5px;"/> </a>
 
 ::: {style="text-align: center;"}
 <a href="https://tcaz.org/" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-globe"></i> </a> <a href="https://www.facebook.com/TeenChallengeArizona" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook"></i> </a> <a href="https://www.instagram.com/teenchallengeaz" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-instagram"></i> </a> <a href="https://twitter.com/TeenChallengeAZ" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-twitter"></i> </a> <a href="http://www.youtube.com/azteenchallenge" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-youtube"></i> </a>
+:::
+:::
+:::
+
+::: {style="text-align: center;"}
+### Please donate what you can!
+
+We have a goal of \$5,000 this year.
+
+<a href="https://www.paypal.com/pools/c/98gl96a7yn" class="paypal-button" target="_blank"></a>
+:::
+
+------------------------------------------------------------------------
+
+::: {style="text-align: center;"}
+# Apparel
+:::
+
+We’re selling T-shirts, hoodies, and crewnecks to raise money for this powerful event on November 3rd. All proceeds will be donated to I Am You 360, Teen Challenge AZ, and Tucson Veterans Serving Veterans.
+
+To order, use the PayPal link below. In the description, make sure to include:
+
+-   Size
+
+-   Color
+
+-   Style (T-shirt, hoodie, or crew neck)
+
+-   Your email so we can contact you when your order is ready.
+
+⚠️ If these details aren’t included, we can’t process your order! There are 29 days left to order, but don’t wait—order now to have your apparel ready to wear on event day!
+
+\$25 for shirts \$50 for hoodies and crew necks.
+
+```{=html}
+<style>
+  /* Default styling for desktop */
+  .carousel-item img {
+    width: 50%; /* Set the image width to 50% */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0 auto; /* Center the image horizontally */
+  }
+  
+  .carousel-indicators {
+      bottom: -40px; /* Lower the position of the slide markers */
+    }
+
+  /* Mobile adjustments */
+  @media (max-width: 768px) {
+    .carousel-item img {
+      width: 100%; /* Make images larger on mobile (80% width) */
+    }
+
+
+    .carousel-control-prev, .carousel-control-next {
+      width: 5%; /* Decrease the space between arrows and images */
+    }
+
+    .carousel-control-prev-icon, .carousel-control-next-icon {
+      width: 30px; /* Increase width of the arrow icons */
+      height: 30px; /* Increase height of the arrow icons */
+      background-size: 30px 30px; /* Adjust background size to match */
+    }
+
+
+    .carousel-indicators {
+      bottom: -40px; /* Lower the position of the slide markers */
+    }
+  }
+</style>
+
+<div id="imageCarousel" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#imageCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#imageCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#imageCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#imageCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+        <button type="button" data-bs-target="#imageCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+        <button type="button" data-bs-target="#imageCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
+  </div>
+  
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="images/blackTee.png" class="d-block w-40" alt="Black colored tee shirt with Conquer the hill on the left breast and the full conquer the hill logo on the back">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    
+    <div class="carousel-item">
+      <img src="images/sandTee.png" class="d-block w-40" alt="Sand colored tee shirt with Conquer the hill on the left breast and the full conquer the hill logo on the back">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    
+    <div class="carousel-item">
+      <img src="images/blackCrewneck.png" class="d-block w-40" alt="Black colored long sleeve crew neck shirt with Conquer the hill on the left breast and the full conquer the hill logo on the back">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+
+  <div class="carousel-item">
+      <img src="images/sandCrewneck.png" class="d-block w-40" alt="Sand colored long sleeve crew neck shirt with Conquer the hill on the left breast and the full conquer the hill logo on the back">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+     <div class="carousel-item">
+      <img src="images/blackHoodie.png" class="d-block w-40" alt="Black colored long sleeve hoodie with Conquer the hill on the left breast and the full conquer the hill logo on the back">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+
+  <div class="carousel-item">
+      <img src="images/sandHoodie.png" class="d-block w-40" alt="Sand colored long sleeve hoodie with Conquer the hill on the left breast and the full conquer the hill logo on the back">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+  </div>
+  
+  <button class="carousel-control-prev" type="button" data-bs-target="#imageCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  
+  <button class="carousel-control-next" type="button" data-bs-target="#imageCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+```
+<br>
+
+::: {style="text-align: center;"}
+<a href="https://www.paypal.com/pools/c/98gm82Oj5s" class="paypal-button" target="_blank"></a>
 :::

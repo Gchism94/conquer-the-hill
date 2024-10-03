@@ -15,11 +15,10 @@ toc: false
   }
 </style>
 
-[![](./images/tucsonVeteransServingVeterans.png){fig-align="center" width="400"}](https://tucsonveterans.org/)
+[![](./images/tucsonVeteransServingVeterans.png){fig-align="left" width="500"}](https://tucsonveterans.org/)
 
-<div style="text-align: center;">
 <a href="https://tucsonveterans.org/" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-globe"></i> </a>
-</div>
+
 
 ## About Tucson Veterans Serving Veterans
 

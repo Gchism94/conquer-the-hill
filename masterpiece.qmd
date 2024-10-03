@@ -1,0 +1,26 @@
+---
+title: "Masterpiece International"
+format: 
+  html:
+    title-block-header: none
+toc: false
+---
+
+
+<style>
+  /* Style the header text (optional) */
+  header h1, header p {
+    /* Set the text color to white or any color that contrasts with the background */
+    color: white;
+  }
+</style>
+
+[![](./images/masterpiece.jpg){fig-align="left" width="500"}](https://iamyou360.org/)
+
+
+<a href="https://masterpieceinternational.org/" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-globe"></i> </a> <a href="https://www.facebook.com/BreakDownInternational/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook"></i> </a>
+
+
+## About Masterpiece International
+
+Our heart and mission for the youth has not waivered, and we continue to search for the most impactful strategies to deeply impact the youth and their communities. To truly impact a life and transform a community there must be a wholistic approach, one that the people themselves design, lead, and directly benefit from. We are turning the typical model of western charity upside down! For too long African communities have depended on foreign aide and charity for low-level survival, creating in many areas a culture of dependency. Our goal is to create a locally owned and operated fully self-sustainable micro-economy that produces skilled workers in the marketplace WHILE empowering flourishing businesses whose PROFITS go directly back into the skilling center… FOREVER.

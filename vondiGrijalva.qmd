@@ -1,0 +1,29 @@
+---
+title: "Vondi Grijalva"
+format: 
+  html:
+    title-block-header: none
+toc: false
+---
+
+
+<style>
+  /* Style the header text (optional) */
+  header h1, header p {
+    /* Set the text color to white or any color that contrasts with the background */
+    color: white;
+  }
+</style>
+
+![](./images/vondiGrijalva.jpg){fig-align="left" width="400"}
+<!--
+<div style="text-align: left;">
+  <a href="https://www.instagram.com/belt_ranelsita/" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-instagram"></i> </a>
+  <a href="mailto:growingtogether3333@gmail.com" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-envelope"></i> </a> 
+</div>
+-->
+
+## What Vondi will speak about:
+
+Vondi shares her story about unhealed trauma which led to teenage pregnancy, domestic violence, drug addiction and  a prison sentence. She honors and acknowledges how surrendering her life to God was the beginning of her healing journey.Vondi hopes by sharing her experiences, a lost soul will be encouraged  to live a life of freedom!
+

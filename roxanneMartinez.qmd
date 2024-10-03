@@ -1,0 +1,27 @@
+---
+title: "Roxanne Martinez"
+format: 
+  html:
+    title-block-header: none
+toc: false
+---
+
+
+<style>
+  /* Style the header text (optional) */
+  header h1, header p {
+    /* Set the text color to white or any color that contrasts with the background */
+    color: white;
+  }
+</style>
+
+![](./images/roxanneMartinez.jpg){fig-align="left" width="400"}
+
+<div style="text-align: left;">
+<a href="mailto:roxannemartinez45@yahoo.com" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-envelope"></i> </a> 
+</div>
+
+## What Roxanne will speak about:
+
+Roxanne Martinez is a survivor of sexual abuse, homelessness, and the challenges of growing up with parents struggling with addiction. As a mother of two daughters, she worked hard to create a safe and protective environment for her family. Through therapy, Roxanne discovered her innate role as a nurturer and peacemaker, shaped by her life experiences. Despite facing numerous obstacles and hardships, she has overcome them with resilience and strength, emerging with a deep sense of self-worth and purpose.
+

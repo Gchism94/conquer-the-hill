@@ -1,0 +1,35 @@
+---
+title: "Desiree Cook"
+format: 
+  html:
+    title-block-header: none
+toc: false
+---
+
+
+<style>
+  /* Style the header text (optional) */
+  header h1, header p {
+    /* Set the text color to white or any color that contrasts with the background */
+    color: white;
+  }
+</style>
+
+![](./images/desireeCook.jpg){fig-align="left" width="500"}
+<!--
+<div style="text-align: left;">
+  <a href="https://www.instagram.com/belt_ranelsita/" target="_blank" rel="noopener noreferrer"> <i class="fa-brands fa-instagram"></i> </a>
+  <a href="mailto:growingtogether3333@gmail.com" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-envelope"></i> </a> 
+</div>
+-->
+
+## What Desiree will speak about:
+
+Desiree Cook’s lived experiences lead her to revolutionize a movement called “I Am Somebody” to spotlight the unique needs of our underserved youth such as foster care and unhoused with wrap around services to empower the whole person.
+ 
+This concept started in her living room in 2014 with the support of her husband and children.
+ 
+Desiree feels it is vital to disrupt the concrete path laid out by society to our underserved youth and replace with seeds of hope so we all can watch them grow and become fruitful.
+ 
+Her unique work is to get the root causes of foster care and homelessness, change the narrative, and introduce solutions to sew our underserved youth back into the fabric of our community through a blend of holistic services and programs such customized hygiene, I Am Somebody curriculum, and homeownership through a safe housing called the Small Home Experience.
+
