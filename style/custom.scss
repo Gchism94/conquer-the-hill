@@ -1,6 +1,6 @@
 /*-- scss:defaults --*/
 
-@import 'https://fonts.googleapis.com/css2?family=Source+Sans+3&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap';
 
 @font-face {
 font-family: 'Kagitingan';
@@ -14,7 +14,7 @@ src: url(fonts/DellaRespira-Regular.ttf) format('opentype');
 
 
 
-$font-family: "Source Sans 3", sans-serif;
+$font-family: "Lexend", sans-serif;
 $link-color: #D59319;
 $hover-color: #D9C296;
 $navbar-bg: #B85619;
@@ -54,7 +54,7 @@ a{
 
 
 body {
-  font-family: 'Source Sans 3', sans-serif;
+  font-family: 'Lexend', sans-serif;
   font-size: 1.15rem;
 }
 
